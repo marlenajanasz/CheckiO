@@ -10,3 +10,5 @@ For the illustration we have a array [3, 4, 5] and we need to remove all element
 We have two edge cases here: (1) if a cutting element cannot be found, then the array shoudn't be changed. (2) if the array is empty, then it should remain empty.
 4. All upper <br>
 Check if a given string has all symbols in upper case - then the function should return True. Otherwise it should return False. If the string is empty or doesn't have any letter in it - function should return True.
+5. Replace first <br>
+In a given array the first element should become the last one. An empty array or array with only one element should stay the same.
