@@ -13,5 +13,5 @@ function replaceFirst(arr){
 //best solution
 
 function replaceFirst(arr) {
-    return arr.length && arr.push(arr.shift()), arr; 
+    return arr.length && arr.push(arr.shift()), arr; //operator przecinka w prosty sposób oblicza dwa operandy i zwraca wartość drugiego operanda
 }
