@@ -12,3 +12,12 @@ We have two edge cases here: (1) if a cutting element cannot be found, then the 
 Check if a given string has all symbols in upper case - then the function should return True. Otherwise it should return False. If the string is empty or doesn't have any letter in it - function should return True.
 5. Replace first <br>
 In a given array the first element should become the last one. An empty array or array with only one element should stay the same.
+6. Between markers <br>
+You are given a string and two markers (the initial one and final). You have to find a substring enclosed between these two markers. But there are a few important conditions. <br>
+<ul>
+  <li>The initial and final markers are always different. </li>
+  <li>The initial and final markers are always 1 char size. </li>
+  <li>The initial and final markers always exist in a string and go one after another.</li>
+</ul>
+Input: Three arguments. All of them are strings. The second and third arguments are the initial and final markers.<br>
+Output: A string.
