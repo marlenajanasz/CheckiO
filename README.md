@@ -20,4 +20,7 @@ You are given a string and two markers (the initial one and final). You have to 
   <li>The initial and final markers always exist in a string and go one after another.</li>
 </ul>
 Input: Three arguments. All of them are strings. The second and third arguments are the initial and final markers.<br>
-Output: A string.
+Output: A string.<br>
+7. Correct sentence <br>
+For the input of your function, you will be given one sentence. You have to return a corrected version, that starts with a capital letter and ends with a period (dot). <br>
+Pay attention to the fact that not all of the fixes are necessary. If a sentence already ends with a period (dot), then adding another one will be a mistake.
