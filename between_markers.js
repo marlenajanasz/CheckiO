@@ -20,6 +20,6 @@ function betweenMarkers(text, begin, end){
  	}
  	
  	if (checkConditionOne() && checkConditionTwo() && checkConditionThree()){
- 		console.log(text.substring((firstIndex+1), lastIndex));
+ 		return text.substring((firstIndex+1), lastIndex);
  	}
  }
