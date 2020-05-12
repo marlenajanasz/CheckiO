@@ -24,3 +24,5 @@ Output: A string.<br><br>
 7. Correct sentence <br>
 For the input of your function, you will be given one sentence. You have to return a corrected version, that starts with a capital letter and ends with a period (dot). <br>
 Pay attention to the fact that not all of the fixes are necessary. If a sentence already ends with a period (dot), then adding another one will be a mistake.
+8. Max digit <br>
+You have a number and you need to determine which digit in this number is the biggest.
