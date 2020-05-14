@@ -25,4 +25,7 @@ Output: A string.<br><br>
 For the input of your function, you will be given one sentence. You have to return a corrected version, that starts with a capital letter and ends with a period (dot). <br>
 Pay attention to the fact that not all of the fixes are necessary. If a sentence already ends with a period (dot), then adding another one will be a mistake. <br><br>
 8. Max digit <br>
-You have a number and you need to determine which digit in this number is the biggest.
+You have a number and you need to determine which digit in this number is the biggest.<br><br>
+9. Even the last <br>
+In a given array you should sum elements with even indexes and multiply the sum by the last element of an array. <br>
+An empty array should return 0.
