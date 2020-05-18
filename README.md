@@ -28,4 +28,7 @@ Pay attention to the fact that not all of the fixes are necessary. If a sentence
 You have a number and you need to determine which digit in this number is the biggest.<br><br>
 9. Even the last <br>
 In a given array you should sum elements with even indexes and multiply the sum by the last element of an array. <br>
-An empty array should return 0.
+An empty array should return 0. <br><br>
+10. Digits multiplication <br>
+You are given a positive integer. Your function should calculate the product of the digits excluding any zeroes.<br>
+For example: The number given is 123405. The result will be 1*2*3*4*5=120 (don't forget to exclude zeroes).
