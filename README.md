@@ -31,4 +31,9 @@ In a given array you should sum elements with even indexes and multiply the sum 
 An empty array should return 0. <br><br>
 10. Digits multiplication <br>
 You are given a positive integer. Your function should calculate the product of the digits excluding any zeroes.<br>
-For example: The number given is 123405. The result will be 1*2*3*4*5=120 (don't forget to exclude zeroes).
+For example: The number given is 123405. The result will be 1*2*3*4*5=120 (don't forget to exclude zeroes). <br><br>
+11. Second index <br>
+You are given two strings and you have to find an index of the second occurrence of the second string in the first one.<br>
+If there's no second occurance, then the function should return undefined.<br>
+Input: Two strings, eg: secondIndex("find the river", "e")<br>
+Output: Int or undefined (example for undefined: secondIndex("hi mayor", " ")
