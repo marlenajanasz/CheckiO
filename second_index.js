@@ -5,7 +5,8 @@ function secondIndex(str, ind){
   if(result < 0){  
       return undefined;
     }
-    else {return result;
+    else {
+      return result;
     }
  
 //the conditional (ternary) operator
