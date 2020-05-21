@@ -36,4 +36,9 @@ For example: The number given is 123405. The result will be 1*2*3*4*5=120 (don't
 You are given two strings and you have to find an index of the second occurrence of the second string in the first one.<br>
 If there's no second occurance, then the function should return undefined.<br>
 Input: Two strings, eg: secondIndex("find the river", "e")<br>
-Output: Int or undefined (example for undefined: secondIndex("hi mayor", " ")
+Output: Int or undefined (example for undefined: secondIndex("hi mayor", " ")<br><br>
+12. First word <br>
+You are given a string where you have to find its first word. Input string consists of only English letters and spaces.
+There aren’t any spaces at the beginning and the end of the string.<br>
+Input: A string.<br>
+Output: A string
